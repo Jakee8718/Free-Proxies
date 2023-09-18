@@ -35,18 +35,17 @@ Cashapp Name: $mason11289
 # Types of Proxies
 `(click to go to list)`
 
-[http](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/http.txt)
-[https](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/https.txt)
-[http & https](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/http%20and%20https.txt)
-[socks4](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/socks/socks4.txt)
-[socks5](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/socks/socks5.txt)
-[IP:User:Pass](https://github.com/Jakee8718/Free-Proxies/blob/main/IP%3AUser%3APass%20Format)
+
+
+
+
+
 - List:
-   - **http** -> 1572
-   - **https** -> 347
-   - **http & https** -> 1721
-   - **socks4** -> 2086
-   - **socks5**
+   - **[http](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/http.txt)**
+   - **[https](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/https.txt)**
+   - **[http & https](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/http%20and%20https.txt)*
+   - **[socks4](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/socks/socks4.txt)**
+   - **[socks5](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/socks/socks5.txt)**
    - **[IP:User:Pass](https://github.com/Jakee8718/Free-Proxies/blob/main/IP%3AUser%3APass%20Format)**
 
 Other: 
