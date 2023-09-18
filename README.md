@@ -27,10 +27,40 @@ Statistics:
 ## How many proxies are in the list?
 There are currently `xxx` proxies. (total)
 
+Donate: [Cashapp Link](https://cash.app/$mason11289)
+Cashapp Name: $mason11289
 
+## This list updates every once in a while, or every 1 star this repo gets.
 
 # Types of Proxies
 `(click to go to list)`
 
-(http)[https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/http.txt]
+[http](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/http.txt)
+[https](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/https.txt)
+[http & https](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/http%20and%20https.txt)
+[socks4](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/socks/socks4.txt)
+[socks5](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/socks/socks5.txt)
+[IP:User:Pass](https://github.com/Jakee8718/Free-Proxies/blob/main/IP%3AUser%3APass%20Format)
+
+Other: 
+[DUMP](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/DUMP)
+
+
+## 📰About This Project & The Proxies
+This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies.
+
+#### ✔️ Free to use & for educational purposes
+#### ✔️ Supported list formats -> TXT (MORE SOON)
+#### ✔️ No authentication is required when connecting any of these proxies 
+#### ✔️ Only confirmed working proxies are added to these lists.
+
+
+## 📄 Information
+
+```yaml
+These proxies are not owned by me. All proxies may have different respond time and some could potentially be offline.
+You may test these proxies on your own as this is just a quick way to get a list of proxies.
+The proxies may not be super secure, so please be responsible for what you do.
+I am NOT responsible for what you do or what happens with these proxies, please be responsible.
+```
 
