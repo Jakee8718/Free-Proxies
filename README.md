@@ -17,7 +17,7 @@
 
 # 🔥 FREE PROXY LIST
 
-Statistics:
+**Statistics:**
 [![Commits][commit-shield]][commit-url]
 [![Commits][commit-activity]][commit-activity-url]
 [![Stargazers][stars-shield]][stars-url]
