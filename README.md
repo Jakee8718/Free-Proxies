@@ -54,7 +54,7 @@ Other:
 
 
 ## 📰About This Project & The Proxies
-This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies.
+This repository contains a free list of HTTP / HTTPS / SOCKS4 / SOCKS5 / IP:USER:PASS Proxies
 
 #### ✔️ Free to use & for educational purposes
 #### ✔️ Supported list formats -> TXT (MORE SOON)
