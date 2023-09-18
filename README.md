@@ -28,8 +28,8 @@
 ## How many proxies are in the list?
 There are currently `xxx` proxies. (total)
 
-####Donate: [Cashapp Link](https://cash.app/$mason11289)
-####Cashapp Name: $mason11289
+#### Donate: [Cashapp Link](https://cash.app/$mason11289)
+#### Cashapp Name: $mason11289
 
 #### This list updates every once in a while, or every 1 star this repo gets.
 
