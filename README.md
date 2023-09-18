@@ -30,7 +30,7 @@ There are currently `xxx` proxies. (total)
 Donate: [Cashapp Link](https://cash.app/$mason11289)
 Cashapp Name: $mason11289
 
-## This list updates every once in a while, or every 1 star this repo gets.
+#### This list updates every once in a while, or every 1 star this repo gets.
 
 # Types of Proxies
 `(click to go to list)`
