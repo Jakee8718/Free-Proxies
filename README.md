@@ -65,7 +65,8 @@ This repository contains a free list of HTTP / HTTPS / SOCKS4 / SOCKS5 / IP:USER
 ## 📄 Information
 
 ```yaml
-These proxies are not owned by me. All proxies may have different respond time and some could potentially be offline.
+These proxies are not owned by me. 
+All proxies may have different respond time and some could potentially be offline.
 You may test these proxies on your own as this is just a quick way to get a list of proxies.
 The proxies may not be super secure, so please be responsible for what you do.
 I am NOT responsible for what you do or what happens with these proxies, please be responsible.
