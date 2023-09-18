@@ -14,3 +14,11 @@
 [commit-url]: https://github.com/Jakee8718/free-proxies/commits/main
 [commit-activity]: https://img.shields.io/github/commit-activity/w/Jakee8718/free-proxies?style=flat&logo=github
 [commit-activity-url]: https://github.com/Jakee8718/free-proxies/commits/main
+
+# 🔥 FREE PROXY LIST
+
+[![Commits][commit-shield]][commit-url]
+[![Commits][commit-activity]][commit-activity-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
