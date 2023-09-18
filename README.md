@@ -17,8 +17,20 @@
 
 # 🔥 FREE PROXY LIST
 
+Statistics:
 [![Commits][commit-shield]][commit-url]
 [![Commits][commit-activity]][commit-activity-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
+
+## How many proxies are in the list?
+There are currently `xxx` proxies. (total)
+
+
+
+# Types of Proxies
+`(click to go to list)`
+
+(http)[https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/http.txt]
+
