@@ -25,9 +25,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 
-<p>
-<img alt="Total Downloads" src="https://img.shields.io/github/downloads/Jakee8718/RS2-Discord-Server-Nuke-Bot/total">
-<p>
  
 ## How many proxies are in the list?
 There are currently `36,505` proxies. (total)
