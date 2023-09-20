@@ -27,7 +27,7 @@
 
  
 ## How many proxies are in the list?
-There are currently `36,514` proxies. (total)
+There are currently `38,735` proxies. (total)
 
 #### Donate: [Cashapp Link](https://cash.app/$mason11289)
 #### Cashapp Name: $mason11289
