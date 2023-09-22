@@ -27,7 +27,7 @@
 
  
 ## How many proxies are in the list?
-There are currently `38,744` proxies. (total)
+There are currently `39,590` proxies. (total)
 <p align="left">
   <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/blob/main/proxy/http.txt">
     <img src="https://img.shields.io/badge/http-62-blue">
