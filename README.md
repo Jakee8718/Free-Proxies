@@ -69,7 +69,7 @@ There are currently `38,744` proxies. (total)
 - List:
    - **[http](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/http.txt)**
    - **[https](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/https.txt)**
-   - **[http & https](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/http%20and%20https.txt)**
+   - **[http & https](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/-http%20and%20https.txt)**
    - **[socks4](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/socks/socks4.txt)**
    - **[socks5](https://github.com/Jakee8718/Free-Proxies/blob/main/proxy/socks/socks5.txt)**
    - **[IP:User:Pass](https://github.com/Jakee8718/Free-Proxies/blob/main/IP%3AUser%3APass%20Format)**
