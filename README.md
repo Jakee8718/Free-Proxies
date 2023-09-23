@@ -30,30 +30,30 @@
 There are currently `39,590` proxies. (total)
 <p align="left">
   <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/proxy/http.txt">
-    <img src="https://img.shields.io/badge/http-62-blue">
+    <img src="https://img.shields.io/badge/http-2914-blue">
   </a>
   <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/proxy/socks/socks4.txt">
-    <img src="https://img.shields.io/badge/socks4">
+    <img src="https://img.shields.io/badge/socks4-1748-blue">
   </a>
 <p></p>
 
 <p></p>
 </a>
    <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/proxy/socks/socks5.txt">
-    <img src="https://img.shields.io/badge/socks5-164-blue">
+    <img src="https://img.shields.io/badge/socks5-876-blue">
   </a>
  <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/blob/main/proxy/https.txt">
-    <img src="https://img.shields.io/badge/https-164-blue">
+    <img src="https://img.shields.io/badge/https-82-blue">
   </a>
 <p></p>
 
 <p></p>
 </a>
  <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/blob/main/proxy/-http%20and%20https.txt">
-    <img src="https://img.shields.io/badge/http / s-164-blue">
+    <img src="https://img.shields.io/badge/http / s-34015-blue">
   </a>
  <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/IP%3AUser%3APass%20Format">
-    <img src="https://img.shields.io/badge/IP:User-164-blue">
+    <img src="https://img.shields.io/badge/IP:User-18-blue">
   </a>
 <p>
  <p></p>
