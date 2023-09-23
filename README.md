@@ -52,7 +52,7 @@ There are currently `39,590` proxies. (total)
  <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/blob/main/proxy/-http%20and%20https.txt">
     <img src="https://img.shields.io/badge/http / s-164-blue">
   </a>
- <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/blob/main/IP%3AUser%3APass%20Format">
+ <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/IP%3AUser%3APass%20Format">
     <img src="https://img.shields.io/badge/IP:User-164-blue">
   </a>
 <p>
