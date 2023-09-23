@@ -32,7 +32,7 @@ There are currently `39,590` proxies. (total)
   <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/blob/main/proxy/http.txt">
     <img src="https://img.shields.io/badge/http-62-blue">
   </a>
-  <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/blob/main/proxy/socks/socks4.txt">
+  <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/proxy/socks/socks4.txt">
     <img src="https://img.shields.io/badge/socks4-361-blue">
   </a>
 <p></p>
