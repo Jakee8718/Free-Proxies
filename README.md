@@ -59,7 +59,7 @@ There are currently `39,590` proxies. (total)
  <p></p>
  <p></p>
 
- *http / https count may be incorrect as shown above*
+ *statistic counts may be slightly off*
  
 #### Donate: [Cashapp Link](https://cash.app/$mason11289)
 #### Cashapp Name: $mason11289
