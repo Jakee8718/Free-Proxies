@@ -27,10 +27,10 @@
 
  
 ## How many proxies are in the list?
-There are currently `41,337` proxies. (total)
+There are currently `52,872` proxies. (total)
 <p align="left">
   <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/proxy/http.txt">
-    <img src="https://img.shields.io/badge/http-3326-blue">
+    <img src="https://img.shields.io/badge/http-6211-blue">
   </a>
   <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/proxy/socks/socks4.txt">
     <img src="https://img.shields.io/badge/socks4-2312-blue">
@@ -43,14 +43,14 @@ There are currently `41,337` proxies. (total)
     <img src="https://img.shields.io/badge/socks5-1422-blue">
   </a>
  <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/blob/main/proxy/https.txt">
-    <img src="https://img.shields.io/badge/https-163-blue">
+    <img src="https://img.shields.io/badge/https-5928-blue">
   </a>
 <p></p>
 
 <p></p>
 </a>
  <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/blob/main/proxy/-http%20and%20https.txt">
-    <img src="https://img.shields.io/badge/http / s-34096-blue">
+    <img src="https://img.shields.io/badge/http / s-36981-blue">
   </a>
  <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/IP%3AUser%3APass%20Format">
     <img src="https://img.shields.io/badge/IP:User-18-blue">
