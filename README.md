@@ -30,7 +30,7 @@
 There are currently `52,872` proxies. (total)
 <p align="left">
   <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/proxy/http.txt">
-    <img src="https://img.shields.io/badge/http-6211-blue">
+    <img src="https://img.shields.io/badge/http-6556-blue">
   </a>
   <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/proxy/socks/socks4.txt">
     <img src="https://img.shields.io/badge/socks4-2312-blue">
@@ -50,7 +50,7 @@ There are currently `52,872` proxies. (total)
 <p></p>
 </a>
  <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/blob/main/proxy/-http%20and%20https.txt">
-    <img src="https://img.shields.io/badge/http / s-36981-blue">
+    <img src="https://img.shields.io/badge/http / s-37326-blue">
   </a>
  <a href="https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/IP%3AUser%3APass%20Format">
     <img src="https://img.shields.io/badge/IP:User-18-blue">
